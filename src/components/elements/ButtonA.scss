@@ -1,0 +1,18 @@
+.ButtonA{
+    background-color: #a5c8ca;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    margin-top: 15px;
+    cursor: pointer;
+    position: absolute;
+
+    &:hover{
+        color:aliceblue;
+        background-color: #2b3433;
+        transition-duration: 0.5s;
+        transform: translateY(-10px);
+        border: 2px solid aliceblue;
+    }
+}
