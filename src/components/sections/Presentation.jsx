@@ -4,7 +4,7 @@ import ButtonA from "../elements/ButtonA";
 
 const Presentation = () => {
     return (
-        <div className="Presentation" id="#Presentation">
+        <div className="Presentation" id="Presentation">
             <h4>
                 <strong>Bem-vindo ao meu portfolio</strong>
             </h4>
